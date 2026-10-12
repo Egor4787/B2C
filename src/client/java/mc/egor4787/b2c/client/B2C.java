@@ -45,7 +45,7 @@ public class B2C implements ClientModInitializer {
         for (int i = 0; i < BINDS.length; i++) {
             BINDS[i] = KeyMappingHelper.registerKeyMapping(
                     new KeyMapping(
-                            "key.b2c.bind_" + (i + 1),
+                            "Bind " + (i + 1),
                             InputConstants.Type.KEYSYM,
 							GLFW.GLFW_KEY_UNKNOWN,
 							B2C_CATEGORY
