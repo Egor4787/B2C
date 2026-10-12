@@ -1,4 +1,4 @@
-# B2C
+# B2C - Bind to Command
 By [Egor4787](https://modrinth.com/user/egor4787/) • Minecraft 26.2 • Requires [Mod Menu](https://modrinth.com/mod/modmenu/)
 
 <a href="https://modrinth.com/mod/b2c"><img src="https://raw.githubusercontent.com/jvqtil/md-badges/refs/heads/master/.github/assets/badge-modrinth.png" height=60></a>
