@@ -1,0 +1,11 @@
+package mc.egor4787.b2c.client.configuration;
+
+import com.terraformersmc.modmenu.api.ConfigScreenFactory;
+import com.terraformersmc.modmenu.api.ModMenuApi;
+
+public class ModMenu implements ModMenuApi {
+    @Override
+    public ConfigScreenFactory<?> getModConfigScreenFactory() {
+        return ConfigScreen::new;
+    }
+}
