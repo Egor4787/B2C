@@ -1,9 +1,7 @@
 # B2C - Bind to Command
 By [Egor4787](https://modrinth.com/user/egor4787/) • Minecraft 26.2 • Requires [Mod Menu](https://modrinth.com/mod/modmenu/)
 
-<a href="https://curseforge.com/minecraft/mc-mods/b2c"><img src="https://raw.githubusercontent.com/jvqtil/md-badges/refs/heads/master/.github/assets/badge-curseforge.png" height=58></a>
-<a href="https://github.com/Egor4787/b2c/releases/latest"><img src="https://raw.githubusercontent.com/jvqtil/md-badges/refs/heads/master/.github/assets/badge-github.png" height=56></a>
-<a href="https://modrinth.com/mod/b2c"><img src="https://raw.githubusercontent.com/jvqtil/md-badges/refs/heads/master/.github/assets/badge-modrinth.png" height=60></a>
+[**`CurseForge`**](https://curseforge.com/minecraft/mc-mods/b2c/) • [**`GitHub`**](https://github.com/Egor4787/b2c/releases/latest/) • [**`Modrinth`**](https://modrinth.com/mod/b2c/)
 
 ### Bind any commands to any keys
 
